@@ -1,0 +1,15 @@
+D:\Nox\VisualStudio\WPF\Param\Param\bin\Debug\Param.exe.config
+D:\Nox\VisualStudio\WPF\Param\Param\bin\Debug\Param.exe
+D:\Nox\VisualStudio\WPF\Param\Param\bin\Debug\Param.pdb
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.csprojAssemblyReference.cache
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\MainWindow.g.cs
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\App.g.cs
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param_MarkupCompile.cache
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param_MarkupCompile.lref
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\MainWindow.baml
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.g.resources
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.Properties.Resources.resources
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.exe
+D:\Nox\VisualStudio\WPF\Param\Param\obj\Debug\Param.pdb

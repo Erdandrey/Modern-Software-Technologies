@@ -1,0 +1,15 @@
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\bin\Debug\UserForms.exe.config
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\bin\Debug\UserForms.exe
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\bin\Debug\UserForms.pdb
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.csprojAssemblyReference.cache
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\App.g.cs
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\MainWindow.baml
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.g.resources
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.exe
+D:\Nox\VisualStudio\WPF\UserForms\UserForms\obj\Debug\UserForms.pdb

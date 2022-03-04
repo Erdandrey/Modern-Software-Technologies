@@ -1,0 +1,14 @@
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.exe.config
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.exe
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.pdb
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\MainWindow.g.cs
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\App.g.cs
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2_MarkupCompile.cache
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2_MarkupCompile.lref
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\MainWindow.baml
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.g.resources
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.Properties.Resources.resources
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.GenerateResource.cache
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.CoreCompileInputs.cache
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.exe
+D:\Nox\VisualStudio\WPF\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.pdb
