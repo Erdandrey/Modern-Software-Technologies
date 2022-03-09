@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Главная";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>Ассортимент автомобилей</h3> 
+        <table class="table-bordered">
+            <tr>
+        <td><p>Марка</p></td>
+        <td><p>Модель</p></td>
+        <td><p>Тип кузова</p></td>
+        <td><p>Цена</p></td>
+                </tr> 
+        @foreach (var c in ViewBag.Cars)
+            {
+                <tr>
+        <td><p>@c.Brand</p></td>
+        <td><p>@c.CarModel</p></td>
+        <td><p>@c.Drive</p></td>
+        <td><p>@c.Sum</p></td>
+                </tr>
+}
+        </table> <p><a class="btn btn-default" href="/Home/CreateBuy">Приобрести автомобиль &raquo;</a></p>
+    </div>
+</div>
