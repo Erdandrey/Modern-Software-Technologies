@@ -1,0 +1,18 @@
+﻿@page "{handler?}"
+@model WebAppCoreProduct.Pages.ProductModel
+@{
+    <form method="post">
+        <label for="name">Название товара</label><br />
+        <input type="text" name="name" /><br />
+        <label for="price">Цена</label><br />
+        <input type="number" name="price" /><br /><br />
+        <input type="submit" asp-page-handler="" value="Получить скидку" /><br />
+        <label for="discont">Введите свою скидку(%)</label><br />
+        <input type="number" name="discont" /><br />
+        <input type="submit" asp-page-handler="Discont" value="С учетом своей скидки" /><br />
+        <label for="discont">Введите количество товара</label><br />
+        <input type="number" name="amount" /><br />
+        <input type="submit" asp-page-handler="Amount" value="Итог покупки" /><br />
+    </form>
+    <h3>@Model.MessageResult</h3>
+}
